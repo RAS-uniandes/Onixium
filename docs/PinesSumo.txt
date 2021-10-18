@@ -1,0 +1,20 @@
+Pines Sumo
+
+Driver drv8833
+D3: B1 IN
+D11: B2 IN 
+D9: A2 IN 
+D10: A1 IN
+B1 y B2 out: motor2
+A1 y A2 out: motor1
+
+Sensores de distancia:
+A4: Sensor izquierdo
+A3: Sensor centro-izquierda
+A2: Sensor centro-centro
+A1: Sensor centro-derecha
+A0: Sensor derecha
+
+Sensores de linea
+A6: Sensor derecha
+A7: Sensor izquierda
